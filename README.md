@@ -1,16 +1,35 @@
-# Sibaha App (Mobile Project)
+# 💸 Share Money Split
 
-**Sibaha** is a mobile app developed with **React Native** that allows users to book swimming sessions. It offers three main roles:
+A simple Flutter app to fairly split shared expenses between friends, family, or colleagues.
 
-- **Normal User**: Can search for academies, pools, and trainers to book swimming sessions.
-- **Academy Owner**: Manages a list of academies, trainers, and pools.
-- **Trainer**: Registers with swimming academies to teach and supervise multiple students.
+## 📅 Project Info
+- **Type**: Money Split Calculator
+- **Date**: 2024/08/30
+- **Location**: Tunis
+- **Tools**: Flutter
 
-The app's interface was designed using **Figma** for a seamless user experience.
+## 🔗 GitHub Repo
+[github.com/ISSAAM11/SumCalculatorApp](https://github.com/ISSAAM11/SumCalculatorApp)
 
-## Tech Stack
-- **React Native**: Framework used for mobile app development
-- **Figma**: Used for graphic design
+## 📲 Features
+- Input contributions for group purchases (groceries, outings, gifts, etc.)
+- Auto-calculates what each person owes
+- Real-time tracking of balances
+- Rebalancing system for single payer scenarios
+- Simple and intuitive UI
 
-## Portfolio
-For more details, visit my portfolio: [Sibaha App - My Portfolio](https://issambh.wixsite.com/portfolio/portfolio-collections/my-portfolio/sibaha)
+## 🧰 Dependencies
+- [`hive`](https://pub.dev/packages/hive) – NoSQL internal storage
+- [`flutter_screenutil`](https://pub.dev/packages/flutter_screenutil) – Responsive UI design
+- [`go_router`](https://pub.dev/packages/go_router) – Seamless screen navigation
+
+## 📸 Screenshots
+*Add screenshots of your app here (optional).*
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/ISSAAM11/SumCalculatorApp
+cd SumCalculatorApp
+flutter pub get
+flutter run
