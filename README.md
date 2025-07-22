@@ -20,9 +20,6 @@ A simple Flutter app to fairly split shared expenses between friends, family, or
 - [`flutter_screenutil`](https://pub.dev/packages/flutter_screenutil) – Responsive UI design
 - [`go_router`](https://pub.dev/packages/go_router) – Seamless screen navigation
 
-##  Screenshots
-*Add screenshots of your app here (optional).*
-
 ##  Getting Started
 
 ```bash
